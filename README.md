@@ -1,2 +1,2 @@
 # sekhar
-Sekhar life
+Sekhar reddy project 
